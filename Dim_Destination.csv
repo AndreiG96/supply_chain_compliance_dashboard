@@ -1,0 +1,21 @@
+destination_id,destination_description,destination_city,destination_country,destination_region
+101,Plant Alpha,Detroit,USA,NA
+102,Plant Beta,Stuttgart,Germany,EMEA
+103,Plant Gamma,Shanghai,China,APAC
+104,Plant Delta,São Paulo,Brazil,LATAM
+105,Plant Epsilon,Chennai,India,APAC
+201,DC East,Newark,USA,NA
+202,DC West,Los Angeles,USA,NA
+203,DC Central EU,Rotterdam,Netherlands,EMEA
+204,DC Asia Hub,Singapore,Singapore,APAC
+205,DC South,Mexico City,Mexico,LATAM
+600001,Customer - AutoNova,Munich,Germany,EMEA
+600002,Customer - BuildRight,Chicago,USA,NA
+600003,Customer - TechDrive,Seoul,South Korea,APAC
+600004,Customer - AgroFeed,Buenos Aires,Argentina,LATAM
+600005,Customer - MediSupply,London,UK,EMEA
+600006,Customer - RetailMax,Toronto,Canada,NA
+600007,Customer - ElectraHome,Sydney,Australia,APAC
+600008,Customer - FoodChain Ltd,Dubai,UAE,EMEA
+600009,Customer - IndustrialEdge,Houston,USA,NA
+600010,Customer - GreenPack,Stockholm,Sweden,EMEA

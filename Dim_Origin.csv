@@ -1,0 +1,21 @@
+origin_id,origin_description,origin_city,origin_country,origin_region
+101,Plant Alpha,Detroit,USA,NA
+102,Plant Beta,Stuttgart,Germany,EMEA
+103,Plant Gamma,Shanghai,China,APAC
+104,Plant Delta,São Paulo,Brazil,LATAM
+105,Plant Epsilon,Chennai,India,APAC
+201,DC East,Newark,USA,NA
+202,DC West,Los Angeles,USA,NA
+203,DC Central EU,Rotterdam,Netherlands,EMEA
+204,DC Asia Hub,Singapore,Singapore,APAC
+205,DC South,Mexico City,Mexico,LATAM
+300001,Vendor - SteelWorks,Pittsburgh,USA,NA
+300002,Vendor - ChemCorp,Basel,Switzerland,EMEA
+300003,Vendor - PolyParts,Osaka,Japan,APAC
+300004,Vendor - RawMat Global,Johannesburg,South Africa,EMEA
+300005,Vendor - CircuitBoard Co,Taipei,Taiwan,APAC
+300006,Vendor - TimberLine,Vancouver,Canada,NA
+300007,Vendor - GlassTech,Prague,Czech Republic,EMEA
+300008,Vendor - RubberWorks,Bangkok,Thailand,APAC
+300009,Vendor - MetalCast,Monterrey,Mexico,LATAM
+300010,Vendor - PackPro,Dublin,Ireland,EMEA

@@ -1,0 +1,9 @@
+equipment_id,equipment_description,shipping_type,transportation_mode
+1,53ft Dry Van,FTL,Road
+2,48ft Flatbed,FTL,Road
+3,LTL Consolidated Pallet,LTL,Road
+4,40ft Container (HC),FCL,Ocean
+5,20ft Container,FCL,Ocean
+6,LCL Shared Container,LCL,Ocean
+7,Air Freight ULD,Parcel,Air
+8,Intermodal Railcar,FTL,Rail

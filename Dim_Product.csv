@@ -1,0 +1,13 @@
+product_id,product_description,product_category,product_type
+1,Cold Rolled Steel Coils,Raw Materials,Metals
+2,Polypropylene Granules,Raw Materials,Plastics
+3,Industrial Adhesive Resin,Chemicals,Hazardous
+4,Brake Assembly Kit,Finished Goods,Automotive Parts
+5,Control Module PCB,Finished Goods,Electronics
+6,Hydraulic Pump Unit,Finished Goods,Machinery
+7,Tempered Glass Panels,Raw Materials,Glass
+8,Organic Solvent Blend,Chemicals,Hazardous
+9,Timber Beam Bundles,Raw Materials,Wood
+10,LED Display Assembly,Finished Goods,Electronics
+11,Rubber Seal Gaskets,Components,Rubber
+12,Corrugated Packaging Rolls,Packaging,Paper

@@ -1,0 +1,9 @@
+carrier_id,carrier_name,carrier_type,service_level
+1,TransGlobal Logistics,3PL,Standard
+2,SwiftFreight Inc.,3PL,Express
+3,In-House Fleet A,In-house,Standard
+4,In-House Fleet B,In-house,Express
+5,OceanWay Shipping,3PL,Economy
+6,AirCargo Express,3PL,Express
+7,BridgeBroker Co.,Broker,Standard
+8,RailConnect Services,3PL,Economy
