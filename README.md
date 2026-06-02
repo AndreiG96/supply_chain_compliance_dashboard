@@ -177,7 +177,7 @@ This dashboard enables:
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots here)*
+<img width="634" height="357" alt="image" src="https://github.com/user-attachments/assets/1229f573-b142-4151-a2c8-d86a0e78d25e" />
 
 ---
 
